@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🏥 SAATHI — Your Personal AI Health Companion
+# 🏥 SAATHI — Medical support and emergency response
 
 <div align="center">
 
