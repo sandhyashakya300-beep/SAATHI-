@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🏥 Medi-Ally — Your Personal AI Health Companion
+# 🏥 SAATHI — Your Personal AI Health Companion
 
 <div align="center">
 
