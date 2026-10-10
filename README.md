@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**An Integrated AI Health Ecosystem acting as your 24/7 Virtual Doctor**
+**Bridging Healthcare and Emergency Care, When Every Second Counts**
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.2-646CFF?logo=vite)](https://vitejs.dev/)
